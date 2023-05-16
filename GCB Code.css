@@ -1,0 +1,11 @@
+/* Set the background color to white */
+body {
+    background-color: #ffffff !important;
+}
+
+/* Set the background image */
+body {
+    /* Replace this link with the background of your choice */
+    background-image: url('https://cdn.pixabay.com/photo/2015/12/09/01/02/mandalas-1084082_960_720.jpg') !important;
+    background-size: cover;
+}
