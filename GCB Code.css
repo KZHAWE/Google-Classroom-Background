@@ -1,11 +1,20 @@
-/* Set the background color to white */
+/* Set the background image of the entire page */
 body {
-    background-color: #ffffff !important;
-}
-
-/* Set the background image */
-body {
-    /* Replace this link with the background of your choice */
     background-image: url('https://cdn.pixabay.com/photo/2015/12/09/01/02/mandalas-1084082_960_720.jpg') !important;
     background-size: cover;
+}
+
+/* Set the background color of the assignment information container */
+/*Please note: these letters (EE538, asCVDb.BiaLW) are for the Google Classroom template that was used in my browser (Microsoft Edge) and may have changed over time.
+If these do not work, find the area you want to highlight and right click on it and press "inspect element".  Once found, copy the address (which should be a set of letters and/or numbers) into the spaces below. */
+.EE538,
+.asCVDb.BiaLW {
+    background-color: #ffffff !important;
+    color: #000000 !important;
+}
+
+/* Adjust the background color of the assignment container */
+.EE538 .EE538,
+.asCVDb.BiaLW .asCVDb.BiaLW {
+    background-color: #f1f1f1 !important;
 }
