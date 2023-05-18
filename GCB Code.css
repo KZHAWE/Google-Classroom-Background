@@ -5,16 +5,16 @@ body {
 }
 
 /* Set the background color of the assignment information container */
-/*Please note: these letters (EE538, asCVDb.BiaLW) are for the Google Classroom template that was used in my browser (Microsoft Edge) and may have changed over time.
-If these do not work, find the area you want to highlight and right click on it and press "inspect element".  Once found, copy the address (which should be a set of letters and/or numbers) into the spaces below. */
 .EE538,
-.asCVDb.BiaLW {
+.asCVDb.BiaLW,
+.Z3qXvc {
     background-color: #ffffff !important;
     color: #000000 !important;
 }
 
 /* Adjust the background color of the assignment container */
 .EE538 .EE538,
-.asCVDb.BiaLW .asCVDb.BiaLW {
+.asCVDb.BiaLW .asCVDb.BiaLW,
+.Z3qXvc .Z3qXvc {
     background-color: #f1f1f1 !important;
 }
